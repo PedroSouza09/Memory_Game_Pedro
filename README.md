@@ -2,12 +2,12 @@
 
 ![preview](./.github/preview.png)
 
->Manual do Dev
+> Manual do Dev
 
 Projeto construído do canal [Manual do Dev](https://www.youtube.com/@ManualdoDev).
 
 My Project:
-[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/PokeDex_Pedro/)
+[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/Memory_Game_Pedro/)
 
 ## 🛠 Tecnologias
 
